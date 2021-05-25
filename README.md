@@ -5,3 +5,4 @@ Today I Learned
 - GraphQL
 - Docker
 - Kubernetes
+- TypeScript
